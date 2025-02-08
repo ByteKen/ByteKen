@@ -1,5 +1,5 @@
 ## Hi there 👋
-![ByteKen Github Stats](https://github-readme-stats.vercel.app/api?username=byteken&show_icons=true&theme=default)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=react&animation=default&layout=default&font=default&quoteType=random)
 <!--
 **ByteKen/ByteKen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
