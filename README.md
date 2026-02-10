@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there 👋<br><br>I am a software developer focused on building scalable web applications and exploring the fundamentals of system efficiency.<br><br>- 🔭 **I’m currently working on:** Full-stack web development with a focus on responsive UI and secure system architecture.<br>- 🌱 **I’m currently learning:** Advanced Data Structures and Algorithms to optimize application performance.<br>---<br><br>*Focusing on clean code and efficient systems.*
+### Hi there 👋<br><br>I am a software developer focused on building scalable web applications and exploring the fundamentals of system efficiency.<br><br>- 🔭 **I’m currently working on:** Full-stack web development with a focus on responsive UI and secure system architecture.<br>- 🌱 **I’m currently learning:** Advanced Data Structures and Algorithms to optimize application performance.<br><br>---<br><br>*Focusing on clean code and efficient systems.*
 
 
 ## 🌐 Socials:
