@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate and detail-oriented aspiring Computer Engineer. I love exploring the intersection of hardware design and software development bridging the gap between physical circuits and digital logic to build efficient, real-world systems.
+I am a passionate and detail-oriented aspiring Computer Engineer. I like exploring the intersection of hardware design and software development bridging the gap between physical circuits and digital logic to build efficient, real-world systems.
 
 
 # 💻 Tech Stack:
